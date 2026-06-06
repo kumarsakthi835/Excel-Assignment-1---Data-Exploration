@@ -66,7 +66,8 @@ RIGHT()
 
 ⭐ This project provides a strong foundation in Excel functions and demonstrates how spreadsheets can be used to transform raw data into meaningful insights.
 
-Screenshots:  <img width="1425" height="1055" alt="image" src="https://github.com/user-attachments/assets/50c54d2d-3ec3-4bbf-a2e9-b8e8d51da886" />
+Screenshots:  <img width="1425" height="1086" alt="image" src="https://github.com/user-attachments/assets/a0bd6d41-a7ad-4411-a2ae-c5c5179724e4" />
+
 
 <img width="1546" height="785" alt="image" src="https://github.com/user-attachments/assets/6cfab993-c65a-4c8b-8c38-af413d216668" />
 
