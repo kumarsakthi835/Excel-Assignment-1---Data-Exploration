@@ -1,4 +1,4 @@
-<img width="1546" height="760" alt="image" src="https://github.com/user-attachments/assets/da8656e9-7d63-440d-b0d6-2e927de052c4" />📊 Excel Assignment 1 - Data Exploration
+📊 Excel Assignment 1 - Data Exploration
 🎯 Project Overview
 
 This project focuses on applying essential Excel functions to analyze a product dataset. It covers numerical calculations, conditional logic, category-based analysis, and text extraction techniques commonly used in business reporting and data analysis.
@@ -66,4 +66,10 @@ RIGHT()
 
 ⭐ This project provides a strong foundation in Excel functions and demonstrates how spreadsheets can be used to transform raw data into meaningful insights.
 
-Screenshots:  
+Screenshots:  <img width="1425" height="1055" alt="image" src="https://github.com/user-attachments/assets/50c54d2d-3ec3-4bbf-a2e9-b8e8d51da886" />
+
+<img width="1546" height="785" alt="image" src="https://github.com/user-attachments/assets/6cfab993-c65a-4c8b-8c38-af413d216668" />
+
+
+
+
